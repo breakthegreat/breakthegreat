@@ -1,10 +1,19 @@
 ### Hi there 👋
-
+## About Me
+- 🔭 I’m currently working on updating my portofolio website
+- 🌱 I'm currently learning new library such as ReactJs.
+- 👯 I am looking to colaborate on open source projects.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+## My projects
+- [Influenza Visualizer Website](https://www.influenzavisualizer.serverpit.com/) - Mobile Friendly Website used to visualize flu data through various aspects.
+- [Portofolio Website](https://breakthegreat.github.io/portofolio/) - Portofolio Website used to showcase information about myself and my different projects.
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=breakthegreat&show_icons=true)
 
 <!--
 **breakthegreat/breakthegreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
