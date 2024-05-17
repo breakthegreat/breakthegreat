@@ -16,8 +16,7 @@
 - [Influenza Visualizer Website](https://www.influenzavisualizer.serverpit.com/) - Mobile Friendly Website used to visualize flu data through various aspects.
 - [Portofolio Website](https://breakthegreat.github.io/portofolio/) - Portofolio Website used to showcase information about myself and my different projects.
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=breakthegreat&show_icons=true)
+
 
 <!--
 **breakthegreat/breakthegreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
