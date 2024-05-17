@@ -2,7 +2,7 @@
 ## About Me
 - 🔭 I’m currently working on updating my portofolio website
 - 🌱 I'm currently learning new library such as ReactJs.
-- 👯 I am looking to colaborate on open source projects.
+- 👯 I'm looking to collaborate on open source projects.
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
