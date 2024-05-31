@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## About Me
-- 🔭 I’m currently working on updating my portofolio website
-- 🌱 I'm currently learning new library such as ReactJs.
+- 🔭 I’m currently working on different website projects
+- 🌱 I'm currently learning ReactJs
 - 👯 I'm looking to collaborate on open source projects.
 
 ## Skills
